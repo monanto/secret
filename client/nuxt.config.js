@@ -47,7 +47,7 @@ module.exports = {
   modules: ['@nuxtjs/axios'],
   axios: {
     credentials: false,
-    browserBaseURL: 'http://0.0.0.0:8080/',
+    browserBaseURL: 'http://localhost:8080/',
     requestInterceptor: (config, { app }) => {
       app.router.app.$loading.start()
       return config
