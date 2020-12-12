@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 bash install.sh
 ```
 
-Everything should be working now, visit `http://localhost:3000` for the user facing interface
+Everything should be working now, visit `http://SERVER_IP:3000` for the user facing interface
 
 ### Backend
 
