@@ -6,18 +6,10 @@ Secret is an open source tool made by privacy freaks for privacy freaks, letting
 
 These instructions will get you a copy of the project up and running on your local machine
 
-### Using Docker
-
-Clone the repository and navigate into it:
+### Using Docker Ubuntu
 
 ```
-git clone https://github.com/1tayH/secret.git && cd secret
-```
-
-Build and start the containers:
-
-```
-docker-compose up --build
+bash install.sh
 ```
 
 Everything should be working now, visit `http://localhost:3000` for the user facing interface
