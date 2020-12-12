@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 apt install git -y
-git clone https://github.com/1tayH/secret.git && cd secret
+git clone https://github.com/monanto/secret.git && cd secret
 bash install.sh
 ```
 
